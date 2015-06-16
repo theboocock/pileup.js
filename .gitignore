@@ -41,3 +41,5 @@ build
 # lib/ -> untransformed code
 # src/ -> transformed code for production (ignore)
 src/
+test/*.js
+test/.module-cache/
