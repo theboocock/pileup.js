@@ -7,6 +7,8 @@ Interactive in-browser track viewer
 
     git clone https://github.com/hammerlab/pileup.js.git
     cd pileup.js
+    npm install -g jstransform # if you don't have jstransform
+    bash scripts/jstransform.sh # Compiles code into plain JavaScript
     npm install
     grunt prod
 
