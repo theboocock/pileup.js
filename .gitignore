@@ -37,3 +37,7 @@ build
 /*.bed
 /*.bam
 /*.vcf
+
+# lib/ -> untransformed code
+# src/ -> transformed code for production (ignore)
+src/
