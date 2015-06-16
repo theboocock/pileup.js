@@ -4,6 +4,8 @@
 .*node_modules/.*mocha.*
 .*node_modules/reactify.*
 .*build.*
+.*test/.*
+.*lib-test/.*
 .*src.*
 
 [include]
